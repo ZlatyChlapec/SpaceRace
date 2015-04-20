@@ -1,0 +1,6 @@
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\bin\Release\422616Homework5.exe.config
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\bin\Release\422616Homework5.exe
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\bin\Release\422616Homework5.pdb
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\obj\Release\422616Homework5.exe
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\obj\Release\422616Homework5.pdb
+D:\Cloud\C#Projects\422616Homework5\422616Homework5\obj\Release\422616Homework5.csprojResolveAssemblyReference.cache
