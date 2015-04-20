@@ -3,12 +3,12 @@ Before your ship will be able to fly you have to build her. Each ship needs to h
 
 You can controle your ship with these commands:
 
-next turn
-launch         - will realease ship
-production     - will increase amount of bp per round
-casing	       - will start building casing
-cockpit        - will start building cockpit
-engine	       - will start building engine
-life support   - will start building life support
-stasis chamber - will start building stasis chamber
-thruster       - will start building thruster
+- next turn
+- launch          - will realease ship
+- production      - will increase amount of bp per round
+- casing          - will start building casing
+- cockpit         - will start building cockpit
+- engine          - will start building engine
+- life support    - will start building life support
+- stasis chamber  - will start building stasis chamber
+- thruster        - will start building thruster
